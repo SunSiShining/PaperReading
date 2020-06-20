@@ -8,6 +8,11 @@ Important Paper Source
 - ICLR
 - ICML
 
+- [Optimizing data usage via differentiable rewards] (https://arxiv.org/pdf/1911.10088.pdf)
+
+- [Balancing Training for Multilingual Neural Machine Translation](https://arxiv.org/pdf/2004.06748.pdf)
+Multilingual machie translation (MT) model that can translate to/from multiple languages(one-many, many-to-one), but faced with imbalanched training sets. This paper propose a data scorer that learns to weight training data to maximize the performance on all test languages. This papers follow [Optimizing data usage via differentiable rewards] (https://arxiv.org/pdf/1911.10088.pdf)
+
 - [Meta-Learning for Low-Resource Neural Machine Translation](https://www.aclweb.org/anthology/D18-1398.pdf) * 
   This paper extend MAML for low resource neural translaition based on  multilingual high-resource language tasks. The proposed approach significantly outperforms transfer learning based approach.
   - Spotlights: 
