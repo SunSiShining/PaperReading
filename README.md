@@ -1,60 +1,31 @@
-# Daily Reading
+# Paper List
 
-Important Paper Source
+#### Understanding black-box predictions via influence functions [Paper](https://arxiv.org/pdf/1703.04730.pdf)
 
-- ACL
-- EMNLP
-- NIPS
-- ICLR
-- ICML
+**>> Abstract**
 
-### >> 0707
+如何解释 a black-box model的prediction？本文采用influence functions，追踪model prediction to training data, 最终确定到底哪个data对model preidiction至关重要。
 
-- Critically Examining the "Neural Hype": Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models [~Paper](https://cs.uwaterloo.ca/~jimmylin/publications/Yang_etal_SIGIR2019.pdf)
+为了对machine learning的setting运用influence functions, 本文提出一种方法仅需access to gradients and Hessian-vector products.
 
-  这篇paper很有意思，质疑了现有了几种neural ir model并没有超越很多年前的strong baselines，并且很多neural model的增益不可以累加
+即使在non-convex and non-differentiable model上，influence functions仍提供了有价值的信息。
 
-  Reinfoselect 提到了without large scale relevance labels, Neural model的effectivenss. without the luxury of large amounts of relevance-specific supervision signals
+本文在Linear model and Convolution neural network上验证了influence functions可以用于：
+- Understanding model behavior
+- debugging model
+- detecting model behavior
+- create visually-indistinguishable training-set attacks
 
-- Neural Ranking Models with Weak Supervision [~Paper](https://arxiv.org/pdf/1704.08803.pdf)
+🤔 所以什么是influence functions? 它又是如何利用gradients来trac model predictions的？好奇作者怎么在model上验证提到的几种用途？
 
-  这篇也有意思，需要多少training data，才能超越week supervision
+**>> Introduction**
 
-  其中关于"How useful is learning with weak supervision for supervised ranking? "的讨论对我很有帮助
+在解释black-box model上已有的工作大多研究: 一个固定的model，如何做出特定的预测, 比如对test point进行扰动，看看prediction如何变化。本文通过model的learning algorithm追踪model prediction最终back to its training data.
 
-  (1) Weakly supervised: only trained on weakly supervised data
+为了判断a training point对a prediction的影响，我们可以问这么一个问题: 如果没有这个training point会怎么样? 但是如果为了测试a training data就重新训一遍model这代价也太大了，因此作者使用了influence functions (a classic technique from robust statistics, 1980)，它告诉了我们如果对a training point进行无穷小的upweight，model parameter如何变化。
 
-  (2) Fully supervised: only trained on supervised data
+但influence function的应用障碍是: expensive second derivative calculations and assume model differentiability and convexity.
 
-  (3) Weakly supervised + Fully supervised: pre-trained using the weakly supervised data and then ne tuned using relevance judgments
+我们可以利用second-order optimzation 技术对influence functions进行进行，即使在不可微或非凸问题上都具备accurate.
 
-  
-
-- [Optimizing data usage via differentiable rewards](https://arxiv.org/pdf/1911.10088.pdf)
-
-- [Balancing Training for Multilingual Neural Machine Translation](https://arxiv.org/pdf/2004.06748.pdf)
-  Multilingual machie translation (MT) model that can translate to/from multiple languages(one-many, many-to-one), but faced with imbalanched training sets. This paper propose a data scorer that learns to weight training data to maximize the performance on all test languages. This papers follow [Optimizing data usage via differentiable rewards] (https://arxiv.org/pdf/1911.10088.pdf)
-
-- [Meta-Learning for Low-Resource Neural Machine Translation](https://www.aclweb.org/anthology/D18-1398.pdf) * 
-  This paper extend MAML for low resource neural translaition based on  multilingual high-resource language tasks. The proposed approach significantly outperforms transfer learning based approach.
-  - Spotlights: 
-    - (1) MAML could be applied to low-resource machine translation by viewing language pairs as separate tasks.
-    - (2) vanilla MAML cannot handle tasks with mismached input and output, thus this paper incorporates the universal lexical representation (Gu et al., 2018) for meta-learning scenario.
-
-- [TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank](https://arxiv.org/pdf/1812.00073.pdf)
-
-  A ranking problem is different from classification or regression tasks, the latters aim to predict a label or a value for each individual item as accurately as possible; the goal of the former is to sort the entire item list, with items of higher relevance being prioritized. In a ranking problem, we are more concerned with the relative order of the relevance of items than their absolute magnitudes.
-
-  learning-to-rank methods: fall into one of pointwise, pairwise, or listwise classes, pairwise and listwise methods are more closely aligned with the ranking task.
-
-- [Learning Data Manipulation for Augmentation and Weighting](https://arxiv.org/pdf/1910.12795.pdf)
-
-  This paper mention a new item (I haven't heard before) —— Manipulating data, including weighting data examples, augmenting new instances.
-
-  Previous works design different learning algorithms for different data manipulation schemas. (either augmentation or weighting)
-
-  This paper proposes the same gradient-based algorithms for different manipulation schemas.
-
-  Important to me: have BERT code
-
-<!-- [An Alternative Cross Entropy Loss for Learning-to-Rank]() -->
+**>> Approach**
