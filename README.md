@@ -29,4 +29,5 @@
 我们可以利用second-order optimzation 技术对influence functions进行进行，即使在不可微或非凸问题上都具备accurate.
 
 **>> Approach**
-Read to function (1)
+
+首先介绍了previous influence function是怎么做的：upweight training point, evaluate on test set，然后在2.1节进行延拓成对training point进行Perturbing
