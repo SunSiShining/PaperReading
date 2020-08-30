@@ -1,5 +1,12 @@
 # Paper List
 
+几篇待读paper:
+
+- [ORCAS: 18 Million Clicked Query-Document Pairs for Analyzing Search](https://arxiv.org/pdf/2006.05324.pdf)
+- [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf)
+- [Complementing Lexical Retrieval with Semantic Residual Embedding](https://arxiv.org/pdf/2004.13969.pdf)
+
+
 #### Understanding black-box predictions via influence functions [Paper](https://arxiv.org/pdf/1703.04730.pdf)
 
 **>> Abstract**
