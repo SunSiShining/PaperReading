@@ -6,7 +6,7 @@
 
 ## Machine Learning
 
-- **Understanding black-box predictions via influence functions / 2017** [~Note](./PaperNote/2020_0831_0906.md) [~Paper](https://arxiv.org/pdf/1703.04730.pdf)
+- **Understanding black-box predictions via influence functions / 2017** [~Note](./PaperNote/2020_0831_0906.md) [~Paper](https://arxiv.org/pdf/1703.04730.pdf) [~Video](https://www.youtube.com/watch?v=0w9fLX_T6tY)
 
 ## Dense Retrieval
 
