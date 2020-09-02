@@ -1,8 +1,8 @@
 # Paper List
 - <a href="#ANN">**ANN**</a>
 - <a href="#Dataset">**Dataset**</a>
-- <a href="#Machine Learning">**Machine Learning**</a>
-- <a href="#Useful Resource">**Useful Resource**</a>
+- <a href="#Machine-Learning">**Machine Learning**</a>
+- <a href="#Useful-Resource">**Useful Resource**</a>
 
 ## [ANN](#contents)
 
