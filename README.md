@@ -4,7 +4,7 @@
 - <a href="#Dense-Retrieval">**Dense Retrieval**</a>
 - <a href="#Data-Manipulation">**Data Manipulation**</a>
 - <a href="#Noisy-Supervision">**Noisy Supervision**</a>
-- <a href="#Useful-Resource">**Useful Resource**</a>
+- <a href="#Resource">**Resource**</a>
 
 ## [Survey](#contents)
 
