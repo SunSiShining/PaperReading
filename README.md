@@ -27,7 +27,7 @@
 ## [Data Manipulation](#contents)
 
 - **Understanding black-box predictions via influence functions / 2017** [~Note](./PaperNote/2020_0831_0906.md) [~Paper](https://arxiv.org/pdf/1703.04730.pdf) [~Video](https://www.youtube.com/watch?v=0w9fLX_T6tY)
-- **Less Is Better: Unweighted Data Subsampling via Influence Function** [~Paper](https://arxiv.org/pdf/1912.01321.pdf) 🤔
+- **Less Is Better: Unweighted Data Subsampling via Influence Function** [~Paper](https://arxiv.org/pdf/1912.01321.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 - **Enhancing Simple Models by Exploiting What They Already Know** [~Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/126-Paper.pdf) 🤔
 
 ## [Noisy Supervision](#contents)
