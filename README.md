@@ -4,6 +4,7 @@
 - <a href="#Dense-Retrieval">**Dense Retrieval**</a>
 - <a href="#Data-Manipulation">**Data Manipulation**</a>
 - <a href="#Noisy-Supervision">**Noisy Supervision**</a>
+- <a href="#Meta-Learning">**Meta Learning**</a>
 - <a href="#Resource">**Resource**</a>
 
 ## [Survey](#contents)
@@ -27,8 +28,11 @@
 ## [Data Manipulation](#contents)
 
 - **Understanding black-box predictions via influence functions.** ICML 2017. [~Paper](https://arxiv.org/pdf/1703.04730.pdf) [~Note](./PaperNote/2020_0831_0906.md)  [~Video](https://www.youtube.com/watch?v=0w9fLX_T6tY)
+- **Learning to Reweight Examples for Robust Deep Learning.** ICML 2018. [~Paper](https://arxiv.org/pdf/1803.09050.pdf)
 - **Less Is Better: Unweighted Data Subsampling via Influence Function.** AAAI 2020. [~Paper](https://arxiv.org/pdf/1912.01321.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 - **Enhancing Simple Models by Exploiting What They Already Know.** ICML 2020. [~Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/126-Paper.pdf) 🤔
+- **Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting.** NeurIPS 2019. [~Paper](https://arxiv.org/pdf/1902.07379.pdf) [~Note](./PaperNote/2020_0903_0910.md)
+
 
 ## [Noisy Supervision](#contents)
 
@@ -37,6 +41,9 @@
 - **Searching to Exploit Memorization Effect in Learning with Noisy Labels.** ICML 2020. [~Paper](https://arxiv.org/pdf/1911.02377.pdf) 🤔
 - **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels.** NeurIPS 2018. [~Paper](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) 🤔
 
+## [Meta Learning](#contents)
+
+- **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks.** ICML 2017. [~Paper](https://arxiv.org/pdf/1703.03400.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 
 ## [Resource](#contents)
 
