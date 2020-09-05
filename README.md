@@ -32,7 +32,7 @@
 - **Less Is Better: Unweighted Data Subsampling via Influence Function.** AAAI 2020. [~Paper](https://arxiv.org/pdf/1912.01321.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 - **Enhancing Simple Models by Exploiting What They Already Know.** ICML 2020. [~Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/126-Paper.pdf) 🤔
 - **Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting.** NeurIPS 2019. [~Paper](https://arxiv.org/pdf/1902.07379.pdf) [~Note](./PaperNote/2020_0903_0910.md)
-
+- Learning Data Manipulation for Augmentation and Weighting. *NeurIPS 2019.* [~Paper](https://arxiv.org/pdf/1910.12795.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 
 ## [Noisy Supervision](#contents)
 
@@ -44,6 +44,8 @@
 ## [Meta Learning](#contents)
 
 - **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks.** ICML 2017. [~Paper](https://arxiv.org/pdf/1703.03400.pdf) [~Note](./PaperNote/2020_0903_0910.md)
+- Yet Meta Learning Can Adapt Fast, It Can Also Break Easily. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/2009.01672.pdf) [~Note](./PaperNote/2020_0903_0910.md)
+
 
 ## [Resource](#contents)
 
