@@ -10,7 +10,7 @@
 ## [Survey](#contents)
 
 - Learning from Noisy Labels with Deep Neural Networks: A Survey. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/2007.08199.pdf) 🤔
-- Neural Models for Information Retrieval. arXiv 2020. [~Paper](https://arxiv.org/pdf/1705.01509.pdf) 🤔
+- Neural Models for Information Retrieval. *arXiv 2020.*. [~Paper](https://arxiv.org/pdf/1705.01509.pdf) 🤔
 - A Deep Look into Neural Ranking Models for Information Retrieval. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/1903.06902.pdf) 🤔
 
 ## [Dense Retrieval](#contents)
@@ -27,7 +27,7 @@
 
 - Understanding black-box predictions via influence functions. *ICML 2017.* [~Paper](https://arxiv.org/pdf/1703.04730.pdf) [~Note](./PaperNote/2020_0831_0906.md)  [~Video](https://www.youtube.com/watch?v=0w9fLX_T6tY)
 - Learning to Reweight Examples for Robust Deep Learning. *ICML 2018.* [~Paper](https://arxiv.org/pdf/1803.09050.pdf)
-- Less Is Better: Unweighted Data Subsampling via Influence Function. AAAI 2020. [~Paper](https://arxiv.org/pdf/1912.01321.pdf) [~Note](./PaperNote/2020_0903_0910.md)
+- Less Is Better: Unweighted Data Subsampling via Influence Function. *AAAI 2020.* [~Paper](https://arxiv.org/pdf/1912.01321.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 - Enhancing Simple Models by Exploiting What They Already Know. *ICML 2020.* [~Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/126-Paper.pdf) 🤔
 - Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting. *NeurIPS 2019.* [~Paper](https://arxiv.org/pdf/1902.07379.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 - Learning Data Manipulation for Augmentation and Weighting. *NeurIPS 2019.* [~Paper](https://arxiv.org/pdf/1910.12795.pdf) [~Note](./PaperNote/2020_0903_0910.md)
