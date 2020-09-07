@@ -5,6 +5,7 @@
 - <a href="#Data-Manipulation">**Data Manipulation**</a>
 - <a href="#Noisy-Supervision">**Noisy Supervision**</a>
 - <a href="#Meta-Learning">**Meta Learning**</a>
+- <a href="#Reinforcement learning">**Reinforcement learning**</a>
 - <a href="#Resource">**Resource**</a>
 
 ## [Survey](#contents)
@@ -26,7 +27,7 @@
 ## [Data Manipulation](#contents)
 
 - Understanding black-box predictions via influence functions. *ICML 2017.* [~Paper](https://arxiv.org/pdf/1703.04730.pdf) [~Note](./PaperNote/2020_0831_0906.md)  [~Video](https://www.youtube.com/watch?v=0w9fLX_T6tY)
-- Learning to Reweight Examples for Robust Deep Learning. *ICML 2018.* [~Paper](https://arxiv.org/pdf/1803.09050.pdf)
+- Learning to Reweight Examples for Robust Deep Learning. *ICML 2018.* [~Paper](https://arxiv.org/pdf/1803.09050.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 - Less Is Better: Unweighted Data Subsampling via Influence Function. *AAAI 2020.* [~Paper](https://arxiv.org/pdf/1912.01321.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 - Enhancing Simple Models by Exploiting What They Already Know. *ICML 2020.* [~Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/126-Paper.pdf) 🤔
 - Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting. *NeurIPS 2019.* [~Paper](https://arxiv.org/pdf/1902.07379.pdf) [~Note](./PaperNote/2020_0903_0910.md)
@@ -45,6 +46,9 @@
 - On First-Order Meta-Learning Algorithms. *arXiv 2018.* [~Paper](https://arxiv.org/pdf/1803.02999.pdf)  [~Note](./PaperNote/2020_0903_0910.md)
 - Yet Meta Learning Can Adapt Fast, It Can Also Break Easily. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/2009.01672.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 
+## [Reinforcement Learning](#contents)
+
+- Connecting the Dots Between MLE and RL for Sequence Prediction. *arXiv 2019.* [~Paper](https://arxiv.org/pdf/1811.09740.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 
 ## [Resource](#contents)
 
