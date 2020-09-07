@@ -27,7 +27,7 @@
 ## [Data Manipulation](#contents)
 
 - Understanding black-box predictions via influence functions. *ICML 2017.* [~Paper](https://arxiv.org/pdf/1703.04730.pdf) [~Note](./PaperNote/2020_0831_0906.md)  [~Video](https://www.youtube.com/watch?v=0w9fLX_T6tY)
-- Learning to Reweight Examples for Robust Deep Learning. *ICML 2018.* [~Paper](https://arxiv.org/pdf/1803.09050.pdf) [~Note](./PaperNote/2020_0903_0910.md)
+- Learning to Reweight Examples for Robust Deep Learning. *ICML 2018.* [~Paper](https://arxiv.org/pdf/1803.09050.pdf) [~Note](./PaperNote/2020_0903_0910.md) [~Video](https://vimeo.com/287808016)
 - Less Is Better: Unweighted Data Subsampling via Influence Function. *AAAI 2020.* [~Paper](https://arxiv.org/pdf/1912.01321.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 - Enhancing Simple Models by Exploiting What They Already Know. *ICML 2020.* [~Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/126-Paper.pdf) 🤔
 - Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting. *NeurIPS 2019.* [~Paper](https://arxiv.org/pdf/1902.07379.pdf) [~Note](./PaperNote/2020_0903_0910.md)
