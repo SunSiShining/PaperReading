@@ -37,8 +37,11 @@
 
 - A Simple yet Effective Baseline for Robust Deep Learning with Noisy Labels. *arXiv 2019.* [~Paper](https://arxiv.org/pdf/1909.09338.pdf) 🤔
 - Masking: A New Perspective of Noisy Supervision. *NeurIPS 2019.* [~Paper](https://arxiv.org/pdf/1805.08193.pdf) 🤔
+- Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. *NeurIPS 2018.* [~Paper](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 - Searching to Exploit Memorization Effect in Learning with Noisy Labels. *ICML 2020.* [~Paper](https://arxiv.org/pdf/1911.02377.pdf) 🤔
-- Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. *NeurIPS 2018.* [~Paper](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) 🤔
+- MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels. *ICML 2018.* [~Paper](https://arxiv.org/pdf/1712.05055.pdf) 🤔
+
+
 
 ## [Meta Learning](#contents)
 
