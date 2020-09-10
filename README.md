@@ -45,8 +45,8 @@
 
 ## [Meta Learning](#contents)
 
-- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. *ICML 2017.* [~Paper](https://arxiv.org/pdf/1703.03400.pdf) [~Note](./PaperNote/2020_0903_0910.md)
-- On First-Order Meta-Learning Algorithms. *arXiv 2018.* [~Paper](https://arxiv.org/pdf/1803.02999.pdf)  [~Note](./PaperNote/2020_0903_0910.md)
+- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. *ICML 2017.* [~Paper](https://arxiv.org/pdf/1703.03400.pdf) [~Note](./PaperNote/2020_0903_0910.md) [~Video](https://www.bilibili.com/video/av46561029?p=40)
+- On First-Order Meta-Learning Algorithms. *arXiv 2018.* [~Paper](https://arxiv.org/pdf/1803.02999.pdf)  [~Note](./PaperNote/2020_0903_0910.md) [~Video](https://www.bilibili.com/video/av46561029?p=40)
 - Yet Meta Learning Can Adapt Fast, It Can Also Break Easily. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/2009.01672.pdf) [~Note](./PaperNote/2020_0903_0910.md)
 
 ## [Reinforcement Learning](#contents)
