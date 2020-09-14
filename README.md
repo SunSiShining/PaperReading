@@ -10,9 +10,10 @@
 
 ## [Survey](#contents)
 
+- A Deep Look into Neural Ranking Models for Information Retrieval. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/1903.06902.pdf) 🤔
 - Learning from Noisy Labels with Deep Neural Networks: A Survey. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/2007.08199.pdf) 🤔
 - Neural Models for Information Retrieval. *arXiv 2020.*. [~Paper](https://arxiv.org/pdf/1705.01509.pdf) 🤔
-- A Deep Look into Neural Ranking Models for Information Retrieval. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/1903.06902.pdf) 🤔
+- Learning from Very Few Samples: A Survey. *arXiv 2020.*. [~Paper](https://arxiv.org/pdf/2009.02653.pdf) [~Note](./PaperNote/2020_0911_0917.md)
 
 ## [Dense Retrieval](#contents)
 
