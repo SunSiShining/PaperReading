@@ -1,6 +1,7 @@
 # Paper List
 - <a href="#Survey">**Survey**</a>
 - <a href="#Dataset">**Dataset**</a>
+- <a href="#Information-Retrieval">**Information Retrieval**</a>
 - <a href="#Dense-Retrieval">**Dense Retrieval**</a>
 - <a href="#Data-Manipulation">**Data Manipulation**</a>
 - <a href="#Noisy-Supervision">**Noisy Supervision**</a>
@@ -10,20 +11,28 @@
 
 ## [Survey](#contents)
 
-- A Deep Look into Neural Ranking Models for Information Retrieval. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/1903.06902.pdf) 🤔
+- A Deep Look into Neural Ranking Models for Information Retrieval. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/1903.06902.pdf) [~Note](./PaperNote/2020_0911_0917.md)
 - Learning from Noisy Labels with Deep Neural Networks: A Survey. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/2007.08199.pdf) 🤔
-- Neural Models for Information Retrieval. *arXiv 2020.*. [~Paper](https://arxiv.org/pdf/1705.01509.pdf) 🤔
+- Neural Models for Information Retrieval. *arXiv 2017.*. [~Paper](https://arxiv.org/pdf/1705.01509.pdf) 🤔
 - Learning from Very Few Samples: A Survey. *arXiv 2020.*. [~Paper](https://arxiv.org/pdf/2009.02653.pdf) [~Note](./PaperNote/2020_0911_0917.md)
-
-## [Dense Retrieval](#contents)
-
-- Dense Passage Retrieval for Open-Domain Question Answering. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/2004.04906.pdf) [~Note](./PaperNote/2020_0831_0906.md)
-- Complementing Lexical Retrieval with Semantic Residual Embedding. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/2004.13969.pdf) [~Note](./PaperNote/2020_0831_0906.md)
-
 
 ## [Dataset](#contents)
 
 - ORCAS: 18 Million Clicked Query-Document Pairs for Analyzing Search. *arXiv 2020.*  [~Paper](https://arxiv.org/pdf/2006.05324.pdf) [~Note](./PaperNote/2020_0831_0906.md)
+
+## [Information Retrieval](#contents)
+
+- Learning Deep Structured Semantic Models for Web Search using Clickthrough Data. *CIKM 2013.* [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf) [~Note](./PaperNote/2020_0911_0917.md)
+- Modeling Diverse Relevance Patterns in Ad-hoc Retrieval. *SIGIR 2018.* [~Paper](https://arxiv.org/pdf/1805.05737.pdf) [~Note](./PaperNote/2020_0911_0917.md)
+- DeepRank: A New Deep Architecture for Relevance Ranking in Information Retrieval. *SIGIR 2019.* [~Paper](https://arxiv.org/pdf/1710.05649.pdf) [~Note](./PaperNote/2020_0911_0917.md)
+
+## [Dense Retrieval](#contents)
+
+- Billion-scale similarity search with GPUs. *IEEE Transactions on Big Data 2017.* [~Paper](https://arxiv.org/pdf/1702.08734.pdf) [~Note](./PaperNote/2020_0831_0906.md)
+- Dense Passage Retrieval for Open-Domain Question Answering. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/2004.04906.pdf) [~Note](./PaperNote/2020_0831_0906.md)
+- Complementing Lexical Retrieval with Semantic Residual Embedding. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/2004.13969.pdf) [~Note](./PaperNote/2020_0831_0906.md)
+
+
 
 ## [Data Manipulation](#contents)
 
