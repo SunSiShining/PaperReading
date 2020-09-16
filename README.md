@@ -26,12 +26,14 @@
 - ORCAS: 18 Million Clicked Query-Document Pairs for Analyzing Search. *arXiv 2020.*  [~Paper](https://arxiv.org/pdf/2006.05324.pdf) [~Note](./PaperNote/2020_0831_0906.md)
 
 
-### Dense Retrieval
+### Dense Indexing
 
 - Billion-scale similarity search with GPUs. *IEEE Transactions on Big Data 2017.* [~Paper](https://arxiv.org/pdf/1702.08734.pdf) [~Note](./PaperNote/2020_0831_0906.md)
 - Dense Passage Retrieval for Open-Domain Question Answering. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/2004.04906.pdf) [~Note](./PaperNote/2020_0831_0906.md)
 - Complementing Lexical Retrieval with Semantic Residual Embedding. *arXiv 2020.* [~Paper](https://arxiv.org/pdf/2004.13969.pdf) [~Note](./PaperNote/2020_0831_0906.md)
 
+
+### Weak Supervision
 
 
 ## [Deep Learning](#contents)
