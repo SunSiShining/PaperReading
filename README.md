@@ -1,10 +1,11 @@
 # Paper List
 - <a href="#Survey">**Survey**</a>
-- <a href="#Information-Retrieval">**Information Retrieval**</a>
 - <a href="#Deep-Learning">**Deep Learning**</a>
 - <a href="#Meta-Learning">**Meta Learning**</a>
 - <a href="#Reinforcement learning">**Reinforcement learning**</a>
 - <a href="#Resource">**Resource**</a>
+- <a href="#Must-Read-IR">**Must-Read IR Papers**</a>
+
 
 ## [Survey](#contents)
 
@@ -13,12 +14,6 @@
 - Neural Models for Information Retrieval. *arXiv 2017.*. [~Paper](https://arxiv.org/pdf/1705.01509.pdf) 🤔
 - Learning from Very Few Samples: A Survey. *arXiv 2020.*. [~Paper](https://arxiv.org/pdf/2009.02653.pdf) [~Note](./PaperNote/2020_0911_0917.md)
 
-
-## [Information Retrieval](#contents)
-
-- Learning Deep Structured Semantic Models for Web Search using Clickthrough Data. *CIKM 2013.* [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf) [~Note](./PaperNote/2020_0911_0917.md)
-- Modeling Diverse Relevance Patterns in Ad-hoc Retrieval. *SIGIR 2018.* [~Paper](https://arxiv.org/pdf/1805.05737.pdf) [~Note](./PaperNote/2020_0911_0917.md)
-- DeepRank: A New Deep Architecture for Relevance Ranking in Information Retrieval. *SIGIR 2019.* [~Paper](https://arxiv.org/pdf/1710.05649.pdf) [~Note](./PaperNote/2020_0911_0917.md)
 
 ### Dataset
 
