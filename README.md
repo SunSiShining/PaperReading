@@ -33,7 +33,7 @@
 
 ## [Deep Learning](#contents)
 
-- Understanding black-box predictions via influence functions. *ICML 2017.* [~Paper](https://arxiv.org/pdf/1703.04730.pdf) [~Note](./PaperNote/2020_0831_0906.md)  [~Video](https://www.youtube.com/watch?v=0w9fLX_T6tY)
+- Understanding black-box predictions via influence functions. *ICML 2017.* [~Paper](https://arxiv.org/pdf/1703.04730.pdf) [~Note](./PaperNote/2020_0831_0906.md)  [~Video](https://www.youtube.com/watch?v=0w9fLX_T6tY) [~Slide](https://drive.google.com/file/d/1ZLY_9Wsk9MA0kXAoJDd6o1gbLvHhyPAn/view)
 
 
 ### Data Manipulation
@@ -69,3 +69,4 @@
 ## [Resource](#contents)
 
 - Paper Digest: ICML 2020 Highlights. [~Link](https://www.paperdigest.org/2020/07/icml-2020-highlights/)
+- [Author List](./Author_List.md)
