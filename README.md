@@ -4,7 +4,7 @@
 - <a href="#Meta-Learning">**Meta Learning**</a>
 - <a href="#Reinforcement learning">**Reinforcement learning**</a>
 - <a href="#Resource">**Resource**</a>
-- **[Must-Read IR Papers](./IR_Papers.md)**
+- **[Must-Read IR Papers](./IR-Papers.md)**
 
 
 ## [Survey](#contents)
