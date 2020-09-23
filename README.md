@@ -5,6 +5,7 @@
 - <a href="#Reinforcement learning">**Reinforcement learning**</a>
 - <a href="#Resource">**Resource**</a>
 - **[Must-Read IR Papers](./IR_Papers.md)**
+- **[English Collection](./English_Collection.md)**
 
 
 ## [Survey](#contents)
