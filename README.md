@@ -42,12 +42,14 @@
 
 - Learning from Noisy Labels with Deep Neural Networks: A Survey. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2007.08199.pdf) 🤔
 - Investigating Weak Supervision in Deep Ranking. *Data and Information Management 2019.* [[Paper]](https://content.sciendo.com/configurable/contentpage/journals$002fdim$002f3$002f3$002farticle-p155.xml) [[Note]](./PaperNote/2020_0911_0917.md)
+- Zero-shot Neural Retrieval via Domain-targeted Synthetic Query Generation. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.14503.pdf) [[Note]](./PaperNote/2020_0925_0930.md)
+
 
 ## Few-Shot Learning
 
 - Learning from Very Few Samples: A Survey. *arXiv 2020.*. [[Paper]](https://arxiv.org/pdf/2009.02653.pdf) [[Note]](./PaperNote/2020_0911_0917.md)
 
-# Transfer Learning
+## Transfer Learning
 
 - Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks. *ACL 2020.* [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.740.pdf)[[Note]](./PaperNote/2020_0918_0924.md)
 
@@ -56,7 +58,9 @@
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. *ICML 2017.* [[Paper]](https://arxiv.org/pdf/1703.03400.pdf) [[Note]](./PaperNote/2020_0903_0910.md) [[Video]](https://www.bilibili.com/video/av46561029?p=40)
 - On First-Order Meta-Learning Algorithms. *arXiv 2018.* [[Paper]](https://arxiv.org/pdf/1803.02999.pdf)  [[Note]](./PaperNote/2020_0903_0910.md) [[Video]](https://www.bilibili.com/video/av46561029?p=40)
 - Yet Meta Learning Can Adapt Fast, It Can Also Break Easily. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2009.01672.pdf) [[Note]](./PaperNote/2020_0903_0910.md)
-
+- Learning to Reweight Examples for Robust Deep Learning. *ICML 2018.* [[Paper]](https://arxiv.org/pdf/1803.09050.pdf) [[Note]](./PaperNote/2020_0903_0910.md) [[Video]](https://vimeo.com/287808016)
+- Optimizing Data Usage via Differentiable Rewards. *ICML 2019.* [[Paper]](https://arxiv.org/pdf/1911.10088.pdf)
+- Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting. *NeurIPS 2019.* [[Paper]](https://arxiv.org/pdf/1902.07379.pdf) [[Note]](./PaperNote/2020_0903_0910.md)
 
 ## Machine Learning
 
@@ -65,7 +69,6 @@
 
 ### Data Manipulation
 
-- Learning to Reweight Examples for Robust Deep Learning. *ICML 2018.* [[Paper]](https://arxiv.org/pdf/1803.09050.pdf) [[Note]](./PaperNote/2020_0903_0910.md) [[Video]](https://vimeo.com/287808016)
 - Less Is Better: Unweighted Data Subsampling via Influence Function. *AAAI 2020.* [[Paper]](https://arxiv.org/pdf/1912.01321.pdf) [[Note]](./PaperNote/2020_0903_0910.md)
 - Enhancing Simple Models by Exploiting What They Already Know. *ICML 2020.* [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/126-Paper.pdf) 🤔
 - Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting. *NeurIPS 2019.* [[Paper]](https://arxiv.org/pdf/1902.07379.pdf) [[Note]](./PaperNote/2020_0903_0910.md)
