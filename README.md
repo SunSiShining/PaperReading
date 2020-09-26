@@ -49,7 +49,7 @@
 
 # Transfer Learning
 
-- Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks. *ACL 2020.* [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.740.pdf)[[Note]](./PaperNote/2020_0918_0924)
+- Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks. *ACL 2020.* [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.740.pdf)[[Note]](./PaperNote/2020_0918_0924.md)
 
 ## Meta Learning
 
@@ -60,7 +60,7 @@
 
 ## Machine Learning
 
-- Understanding black-box predictions via influence functions. *ICML 2017.* [[[Paper]]](https://arxiv.org/pdf/1703.04730.pdf) [[Note]](./PaperNote/2020_0831_0906.md)  [[Video]](https://www.youtube.com/watch?v=0w9fLX_T6tY) [Slide](https://drive.google.com/file/d/1ZLY_9Wsk9MA0kXAoJDd6o1gbLvHhyPAn/view)
+- Understanding black-box predictions via influence functions. *ICML 2017.* [[[Paper]]](https://arxiv.org/pdf/1703.04730.pdf) [[Note]](./PaperNote/2020_0831_0906.md)  [[Video]](https://www.youtube.com/watch?v=0w9fLX_T6tY) [[Slide]](https://drive.google.com/file/d/1ZLY_9Wsk9MA0kXAoJDd6o1gbLvHhyPAn/view)
 
 
 ### Data Manipulation
