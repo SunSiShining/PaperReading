@@ -6,6 +6,7 @@
   - [IR Dataset](#ir-dataset)
 - [Weak Supervision](#weak-supervision)
 - [Few-Shot Learning](#few-shot-learning)
+- [Transfer Learning](#transfer-learning)
 - [Meta Learning](#meta-learning)
 - [Machine Learning](#machine-learning)
   - [Data Manipulation](#data-manipulation)
