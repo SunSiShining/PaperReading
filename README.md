@@ -6,10 +6,10 @@
   - [IR Dataset](#ir-dataset)
 - [Weak Supervision](#weak-supervision)
 - [Few-Shot Learning](#few-shot-learning)
+- [Meta Learning](#meta-learning)
 - [Machine Learning](#machine-learning)
   - [Data Manipulation](#data-manipulation)
   - [Noisy Supervision](#noisy-supervision)
-- [Meta Learning](#meta-learning)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Other Resource](#other-resource)
 
@@ -46,6 +46,15 @@
 
 - Learning from Very Few Samples: A Survey. *arXiv 2020.*. [[Paper]](https://arxiv.org/pdf/2009.02653.pdf) [[Note]](./PaperNote/2020_0911_0917.md)
 
+# Transfer Learning
+
+- Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks. *ACL 2020.* [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.740.pdf)[[Note]](./PaperNote/2020_0918_0924)
+
+## Meta Learning
+
+- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. *ICML 2017.* [[Paper]](https://arxiv.org/pdf/1703.03400.pdf) [[Note]](./PaperNote/2020_0903_0910.md) [[Video]](https://www.bilibili.com/video/av46561029?p=40)
+- On First-Order Meta-Learning Algorithms. *arXiv 2018.* [[Paper]](https://arxiv.org/pdf/1803.02999.pdf)  [[Note]](./PaperNote/2020_0903_0910.md) [[Video]](https://www.bilibili.com/video/av46561029?p=40)
+- Yet Meta Learning Can Adapt Fast, It Can Also Break Easily. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2009.01672.pdf) [[Note]](./PaperNote/2020_0903_0910.md)
 
 
 ## Machine Learning
@@ -63,7 +72,6 @@
 
 
 
-
 ### Noisy Supervision
 
 - A Simple yet Effective Baseline for Robust Deep Learning with Noisy Labels. *arXiv 2019.* [[Paper]](https://arxiv.org/pdf/1909.09338.pdf) 🤔
@@ -71,14 +79,6 @@
 - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. *NeurIPS 2018.* [[Paper]](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) [[Note]](./PaperNote/2020_0903_0910.md)
 - Searching to Exploit Memorization Effect in Learning with Noisy Labels. *ICML 2020.* [[Paper]](https://arxiv.org/pdf/1911.02377.pdf) 🤔
 - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels. *ICML 2018.* [[Paper]](https://arxiv.org/pdf/1712.05055.pdf) 🤔
-
-
-
-## Meta Learning
-
-- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. *ICML 2017.* [[Paper]](https://arxiv.org/pdf/1703.03400.pdf) [[Note]](./PaperNote/2020_0903_0910.md) [[Video]](https://www.bilibili.com/video/av46561029?p=40)
-- On First-Order Meta-Learning Algorithms. *arXiv 2018.* [[Paper]](https://arxiv.org/pdf/1803.02999.pdf)  [[Note]](./PaperNote/2020_0903_0910.md) [[Video]](https://www.bilibili.com/video/av46561029?p=40)
-- Yet Meta Learning Can Adapt Fast, It Can Also Break Easily. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2009.01672.pdf) [[Note]](./PaperNote/2020_0903_0910.md)
 
 
 ## Reinforcement Learning
@@ -90,5 +90,4 @@
 
 - [Author List](./Author_List.md)
 - [English Collection](./English_Collection.md)
-
-- Paper Digest: ICML 2020 Highlights. [Link](https://www.paperdigest.org/2020/07/icml-2020-highlights/)
+- Paper Digest: ICML 2020 Highlights. [[Link]](https://www.paperdigest.org/2020/07/icml-2020-highlights/)
