@@ -12,6 +12,7 @@
   - [Data Manipulation](#data-manipulation)
   - [Noisy Supervision](#noisy-supervision)
 - [Reinforcement Learning](#reinforcement-learning)
+- [Computer Vision (CV)](#computer-vision)
 - [Other Resource](#other-resource)
 
 
@@ -30,7 +31,7 @@
 - Billion-scale similarity search with GPUs. *IEEE Transactions on Big Data 2017.* [[Paper]](https://arxiv.org/pdf/1702.08734.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 - Dense Passage Retrieval for Open-Domain Question Answering. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.04906.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 - Complementing Lexical Retrieval with Semantic Residual Embedding. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.13969.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
-
+- Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2007.00808.pdf)
 
 ### IR Dataset
 
@@ -89,6 +90,9 @@
 
 - Connecting the Dots Between MLE and RL for Sequence Prediction. *arXiv 2019.* [[Paper]](https://arxiv.org/pdf/1811.09740.pdf) [[Note]](./PaperNote/2020_0903_0910.md)
 
+## Computer Vision
+
+- A Framework For Contrastive Self-Supervised Learning And Designing A New Approach. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2009.00104.pdf)
 
 ## Other Resource
 
