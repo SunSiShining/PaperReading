@@ -93,6 +93,7 @@
 ## Computer Vision
 
 - A Framework For Contrastive Self-Supervised Learning And Designing A New Approach. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2009.00104.pdf)
+- Momentum Contrast for Unsupervised Visual Representation Learning. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/1911.05722.pdf) [[Note]](./PaperNote/2020_0925_0930.md)
 
 ## Other Resource
 
