@@ -39,7 +39,7 @@
 - Dense Passage Retrieval for Open-Domain Question Answering. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.04906.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 - Complementing Lexical Retrieval with Semantic Residual Embedding. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.13969.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 - Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2007.00808.pdf)
-- ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT. *SIGIR 2020.* [[Paper]](https://arxiv.org/pdf/2004.12832.pdf) [[Note]](./PaperNote/2020_1008_1015.md)
+- ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT. *SIGIR 2020.* [[Paper]](https://arxiv.org/pdf/2004.12832.pdf) [[Note]](./PaperNote/2020_1008_1015.md)
 
 ### IR Dataset
 
