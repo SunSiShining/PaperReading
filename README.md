@@ -13,7 +13,14 @@
   - [Noisy Supervision](#noisy-supervision)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Computer Vision (CV)](#computer-vision)
+- [Natural Language Processing (NLP)](#natural-language-processing)
 - [Other Resource](#other-resource)
+
+# Natural Language Processing (NLP)
+
+### Pretraining
+
+- SciBERT: A Pretrained Language Model for Scientific Text. *ACL 2019.* [[Paper]](https://arxiv.org/pdf/1903.10676.pdf)
 
 
 ## Information Retreival
@@ -32,11 +39,12 @@
 - Dense Passage Retrieval for Open-Domain Question Answering. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.04906.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 - Complementing Lexical Retrieval with Semantic Residual Embedding. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.13969.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 - Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2007.00808.pdf)
+- ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT. *SIGIR 2020.* [[Paper]](https://arxiv.org/pdf/2004.12832.pdf) [[Note]](./PaperNote/2020_1008_1015.md)
 
 ### IR Dataset
 
 - ORCAS: 18 Million Clicked Query-Document Pairs for Analyzing Search. *arXiv 2020.*  [[Paper]](https://arxiv.org/pdf/2006.05324.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
-
+- TREC Complex Answer Retrieval Overview. *TREC 2017.* [[Paper]](https://trec.nist.gov/pubs/trec26/papers/Overview-CAR.pdf)
 
 
 ## Weak Supervision
