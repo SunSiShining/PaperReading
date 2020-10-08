@@ -18,4 +18,3 @@
 ||Contrastive Loss|Dimensionality Reduction by Learning an Invariant Mapping. *CVPR 2006.* [[Paper]](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf)|
 ||Contrastive Learning|Representation Learning with Contrastive Predictive Coding. *ArXiv 2019.* [[Paper]](https://arxiv.org/pdf/1807.03748.pdf)|
 ||Recommendation|Content-aware Neural Hashing for Cold-start Recommendation. *SIGIR 2020.* [[Paper]](https://arxiv.org/pdf/2006.00617.pdf)|
-||ColBERT: Eicient and Eective Passage Search via Contextualized Late Interaction over BERT. *SIGIR 2020.* [[Paper]](https://arxiv.org/pdf/2004.12832.pdf)|
