@@ -2,7 +2,8 @@
 
 - [Information Retreival](#information-retreival)
   - [IR Survey](#ir-survey)
-  - [IR Model](#ir-model)
+  - [Ranking Model](#ranking-model)
+  - [Dense Retrieval](#dense-retrieval)
   - [IR Dataset](#ir-dataset)
 - [Weak Supervision](#weak-supervision)
 - [Few-Shot Learning](#few-shot-learning)
@@ -30,21 +31,28 @@
 - A Deep Look into Neural Ranking Models for Information Retrieval. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/1903.06902.pdf) [[Note]](./PaperNote/2020_0911_0917.md)
 - Neural Models for Information Retrieval. *arXiv 2017.*. [[Paper]](https://arxiv.org/pdf/1705.01509.pdf) 🤔
 
-### IR Model
+
+### Ranking Model
 
 - Learning Deep Structured Semantic Models for Web Search using Clickthrough Data. *CIKM 2013.* [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf) [[Note]](./PaperNote/2020_0918_0924.md)
 - Modeling Diverse Relevance Patterns in Ad-hoc Retrieval. *SIGIR 2018.* [[Paper]](https://arxiv.org/pdf/1805.05737.pdf) [[Note]](./PaperNote/2020_0918_0924.md)
 - DeepRank: A New Deep Architecture for Relevance Ranking in Information Retrieval. *SIGIR 2019.* [[Paper]](https://arxiv.org/pdf/1710.05649.pdf) [[Note]](./PaperNote/2020_0918_0924.md)
+
+- ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT. *SIGIR 2020.* [[Paper]](https://arxiv.org/pdf/2004.12832.pdf) [[Note]](./PaperNote/2020_1008_1015.md)
+
+### Dense Retrieval
+
 - Billion-scale similarity search with GPUs. *IEEE Transactions on Big Data 2017.* [[Paper]](https://arxiv.org/pdf/1702.08734.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 - Dense Passage Retrieval for Open-Domain Question Answering. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.04906.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 - Complementing Lexical Retrieval with Semantic Residual Embedding. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.13969.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
-- Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2007.00808.pdf)
-- ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT. *SIGIR 2020.* [[Paper]](https://arxiv.org/pdf/2004.12832.pdf) [[Note]](./PaperNote/2020_1008_1015.md)
+- Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2007.00808.pdf) [[Note]](./PaperNote/2020_1008_1015.md)
+
 
 ### IR Dataset
 
 - ORCAS: 18 Million Clicked Query-Document Pairs for Analyzing Search. *arXiv 2020.*  [[Paper]](https://arxiv.org/pdf/2006.05324.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 - TREC Complex Answer Retrieval Overview. *TREC 2017.* [[Paper]](https://trec.nist.gov/pubs/trec26/papers/Overview-CAR.pdf)
+- MS MARCO: A Human Generated MAchine Reading COmprehension Dataset. *ICLR 2017.* [[Paper]](https://openreview.net/pdf?id=Hk1iOLcle) [[Note]](./PaperNote/2020_1008_1015.md)
 
 
 ## Weak Supervision
