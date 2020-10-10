@@ -31,6 +31,8 @@
 
 ### IR Survey
 
+- Neural Information Retrieval: At the End of the Early Years. [[Paper]](https://www.ischool.utexas.edu/~ml/papers/zhang-irj18.pdf)
+- An Introduction to Neural Information Retrieval. [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/fntir2018-neuralir-mitra.pdf)
 - A Deep Look into Neural Ranking Models for Information Retrieval. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/1903.06902.pdf) [[Note]](./PaperNote/2020_0911_0917.md)
 - Neural Models for Information Retrieval. *arXiv 2017.*. [[Paper]](https://arxiv.org/pdf/1705.01509.pdf) 🤔
 
