@@ -20,8 +20,11 @@
 # Natural Language Processing (NLP)
 
 ### Pretraining
-
+- Transformer: Attention Is All You Need. *NeuIPS 2017.* [[Paper]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) 
 - SciBERT: A Pretrained Language Model for Scientific Text. *ACL 2019.* [[Paper]](https://arxiv.org/pdf/1903.10676.pdf)
+- GPT: Improving Language Understanding by Generative Pre-Training. [[Paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- GPT-2: Language Models are Unsupervised Multitask Learners. [[Paper]](http://www.persagen.com/files/misc/radford2019language.pdf)
+- GPT-3: Language Models are Few-Shot Learners. [[Paper]](https://arxiv.org/pdf/2005.14165.pdf)
 
 
 ## Information Retreival

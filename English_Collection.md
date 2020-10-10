@@ -41,3 +41,6 @@ it is sometimes desirable to do sth
 PCA involves the projection of inputs to a low dimensional subspace that maximizes the variance.
 
 draws an analogy with a mechanical spring system
+
+
+通常被定义/描述为：is usually framed as
