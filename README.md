@@ -1,5 +1,5 @@
 # Paper List
-- [Natural Language Processing (NLP)](#natural-language-processing)
+- [NLP](#nlp)
   - [Pretraining](#pretraining)
 - [Information Retreival](#information-retreival)
   - [IR Survey](#ir-survey)
@@ -14,10 +14,10 @@
   - [Data Manipulation](#data-manipulation)
   - [Noisy Supervision](#noisy-supervision)
 - [Reinforcement Learning](#reinforcement-learning)
-- [Computer Vision (CV)](#computer-vision)
+- [CV](#cv)
 - [Other Resource](#other-resource)
 
-## Natural Language Processing (NLP)
+## NLP
 
 ### Pretraining
 - Transformer: Attention Is All You Need. *NeuIPS 2017.* [[Paper]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
@@ -109,7 +109,7 @@
 
 - Connecting the Dots Between MLE and RL for Sequence Prediction. *arXiv 2019.* [[Paper]](https://arxiv.org/pdf/1811.09740.pdf) [[Note]](./PaperNote/2020_0903_0910.md)
 
-## Computer Vision
+## CV
 
 - A Framework For Contrastive Self-Supervised Learning And Designing A New Approach. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2009.00104.pdf)
 - Momentum Contrast for Unsupervised Visual Representation Learning. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/1911.05722.pdf) [[Note]](./PaperNote/2020_0925_0930.md)
