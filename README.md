@@ -1,5 +1,6 @@
 # Paper List
-
+- [Natural Language Processing (NLP)](#natural-language-processing)
+  - [Pretraining](#pretraining)
 - [Information Retreival](#information-retreival)
   - [IR Survey](#ir-survey)
   - [Ranking Model](#ranking-model)
@@ -14,13 +15,12 @@
   - [Noisy Supervision](#noisy-supervision)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Computer Vision (CV)](#computer-vision)
-- [Natural Language Processing (NLP)](#natural-language-processing)
 - [Other Resource](#other-resource)
 
-# Natural Language Processing (NLP)
+## Natural Language Processing (NLP)
 
 ### Pretraining
-- Transformer: Attention Is All You Need. *NeuIPS 2017.* [[Paper]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) 
+- Transformer: Attention Is All You Need. *NeuIPS 2017.* [[Paper]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 - SciBERT: A Pretrained Language Model for Scientific Text. *ACL 2019.* [[Paper]](https://arxiv.org/pdf/1903.10676.pdf)
 - GPT: Improving Language Understanding by Generative Pre-Training. [[Paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - GPT-2: Language Models are Unsupervised Multitask Learners. [[Paper]](http://www.persagen.com/files/misc/radford2019language.pdf)
