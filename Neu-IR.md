@@ -1,5 +1,14 @@
 # Neu-IR 研究历史 (持续更新)
 
+- [2013](#2013)
+- [2014](#2014)
+- [2015](#2015)
+- [2016](#2016)
+- [2017](#2017)
+- [2018](#2018)
+- [2019](#2019)
+
+
 ## 2013
 
   - Learning Deep Structured Semantic Models for Web Search using Clickthrough Data. *Huang, Po-Sen and He, Xiaodong and Gao, Jianfeng and Deng, Li and Acero, Alex and Heck, Larry.* CIKM 2013. [[Paper]](http://www.ifp.illinois.edu/~huang146/papers/cikm2013_DSSM_fullversion.pdf)
@@ -22,7 +31,7 @@
   - Convolutional neural network architectures for matching natural language sentences. *Hu, Baotian and Lu, Zhengdong and Li, Hang and Chen, Qingcai.* NIPS 2014. [[Paper]](http://papers.nips.cc/paper/5550-convolutional-neural-network-architectures-for-matching-natural-language-sentences.pdf)
 
 
-## 2015 (first workshop on Neural IR)
+## 2015
 
   - Search retargeting using directed query embeddings. *Grbovic, Mihajlo and Djuric, Nemanja and Radosavljevic, Vladan and Bhamidipati, Narayan.* WWW 2015. [[Paper]](http://www.www2015.it/documents/proceedings/companion/p37.pdf)
 
