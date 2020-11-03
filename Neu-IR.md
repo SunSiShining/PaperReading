@@ -129,7 +129,7 @@
 
   - Learning to rank question answer pairs with holographic dual LSTM architecture
 
-  - Relevance-based word embedding [Relevance Embedding]
+  - Relevance-based word embedding. *Zamani, Hamed and Croft, W Bruce.* SIGIR 2017.
 
   - Multi-granularity neural sentence model for measuring short text similarity
 
@@ -267,3 +267,13 @@
 
 
   https://scholar.google.com/scholar?start=10&hl=zh-CN&as_sdt=2005&sciodt=0,5&as_ylo=2019&as_yhi=2019&cites=15756418488238306251&scipsc=
+
+
+### Weakly supervised IR
+- Pseudo test collections for learning web search ranking functions. SIGIR 2011
+- Neural query performance prediction using weak supervision from multiple signals. SIGIR 2018.
+-  Replacing expensive regression forests with simple feed-forward networks. SIGIR 2018.
+-  Semi-supervised learning to rank with preference regularization. CIKM 2011.
+-  Learning to rank with partially-labeled data. SIGIR 2008.
+-  Training query filtering for semi-supervised learning to rank with pseudo labels. WWW 2016.
+-  Joint learning from labeled and unlabeled data for information retrieval. COLING 2018.
