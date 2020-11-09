@@ -26,6 +26,7 @@
 - GPT-2: Language Models are Unsupervised Multitask Learners. [[Paper]](http://www.persagen.com/files/misc/radford2019language.pdf)
 - GPT-3: Language Models are Few-Shot Learners. [[Paper]](https://arxiv.org/pdf/2005.14165.pdf)
 - OPTIMUS: Organizing Sentences via Pre-trained Modeling of a Latent Space. *Li, Chunyuan and Gao, Xiang and Li, Yuan and Li, Xiujun and Peng, Baolin and Zhang, Yizhe and Gao, Jianfeng.* arXiv 2020. [[Paper]](https://arxiv.org/pdf/2004.04092.pdf)
+- Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing. *Gu, Yu and Tinn, Robert and Cheng, Hao and Lucas, Michael and Usuyama, Naoto and Liu, Xiaodong and Naumann, Tristan and Gao, Jianfeng and Poon, Hoifung.* arXiv 2020 [[paper]](https://arxiv.org/pdf/2007.15779.pdf)
 
 ## Information Retreival
 
@@ -52,6 +53,8 @@
 - Complementing Lexical Retrieval with Semantic Residual Embedding. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.13969.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 - Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2007.00808.pdf) [[Note]](./PaperNote/2020_1008_1015.md)
 - Learning To Retrieve: How to Train a Dense Retrieval Model Effectively and Efficiently. *Zhan, Jingtao and Mao, Jiaxin and Liu, Yiqun and Zhang, Min and Ma, Shaoping.* arXiv 2020. [[Paper]](https://arxiv.org/pdf/2010.10469.pdf)
+- Learning To Retrieve: How to Train a Dense Retrieval Model Effectively and Efficiently. [[paper]](https://arxiv.org/pdf/2010.10469.pdf)
+- Neural Passage Retrieval with Improved Negative Contrast. *Lu, Jing and Abrego, Gustavo Hernandez and Ma, Ji and Ni, Jianmo and Yang, Yinfei.* arXiv 2020. [[paper]](https://arxiv.org/pdf/2010.12523.pdf)
 
 ### IR Dataset
 
