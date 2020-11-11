@@ -5,9 +5,18 @@
 - [Dense Retrieval](#dense-retrieval)
 - [IR Dataset](#ir-dataset)
 
+## 2020
+
+- **Efficient Document Re-Ranking for Transformers by Precomputing Term Representations.** *MacAvaney, Sean and Nardini, Franco Maria and Perego, Raffaele and Tonellotto, Nicola and Goharian, Nazli and Frieder, Ophir.* arXiv 2020. [[paper]](https://arxiv.org/pdf/2004.14255.pdf) [[note]](./2020_0911_0917.md)
+
+
 ## 2019
 
 - **Deeper text understanding for IR with contextual neural language modeling.** *Dai, Zhuyun and Callan, Jamie.* SIGIR 2019. [[paper]](https://www.cs.cmu.edu/~zhuyund/papers/SIGIR19short-BERT-IR.pdf)
+
+
+## 2020
+
 
 
 
