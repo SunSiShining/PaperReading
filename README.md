@@ -5,18 +5,23 @@
 - [Dense Retrieval](#dense-retrieval)
 - [IR Dataset](#ir-dataset)
 
-## 2020
 
-- **Efficient Document Re-Ranking for Transformers by Precomputing Term Representations.** *MacAvaney, Sean and Nardini, Franco Maria and Perego, Raffaele and Tonellotto, Nicola and Goharian, Nazli and Frieder, Ophir.* arXiv 2020. [[paper]](https://arxiv.org/pdf/2004.14255.pdf) [[note]](./2020_0911_0917.md)
+## Others
+
+**A Reinforcement Learning Framework for Relevance Feedback.** *Montazeralghaem, Ali and Zamani, Hamed and Allan, James.* SIGIR 2020. [[paper]](http://maroo.cs.umass.edu/pub/web/getpdf.php?id=1343) [[Note]](./PaperNote/2020_1112_1119.md)
 
 
-## 2019
+
+## Query Generation
+
+- Zero-shot Neural Retrieval via Domain-targeted Synthetic Query Generation. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.14503.pdf) [[Note]](./PaperNote/2020_0925_0930.md)
+
+
+## Weak Supervision
 
 - **Deeper text understanding for IR with contextual neural language modeling.** *Dai, Zhuyun and Callan, Jamie.* SIGIR 2019. [[paper]](https://www.cs.cmu.edu/~zhuyund/papers/SIGIR19short-BERT-IR.pdf)
 
-
-## 2020
-
+- Investigating Weak Supervision in Deep Ranking. *Data and Information Management 2019.* [[Paper]](https://content.sciendo.com/configurable/contentpage/journals$002fdim$002f3$002f3$002farticle-p155.xml) [[Note]](./PaperNote/2020_0911_0917.md)
 
 
 
@@ -49,37 +54,33 @@
 
 - Dc-bert: Decoupling question and document for efficient contextual encoding. *Nie, Ping and Zhang, Yuyu and Geng, Xiubo and Ramamurthy, Arun and Song, Le and Jiang, Daxin.* SIGIR 2020. [[paper]](https://arxiv.org/pdf/2002.12591.pdf) [[Note]](./PaperNote/2020_0911_0917.md)
 
+- **Efficient Document Re-Ranking for Transformers by Precomputing Term Representations.** *MacAvaney, Sean and Nardini, Franco Maria and Perego, Raffaele and Tonellotto, Nicola and Goharian, Nazli and Frieder, Ophir.* arXiv 2020. [[paper]](https://arxiv.org/pdf/2004.14255.pdf) [[note]](./2020_0911_0917.md)
+
+
 
 
 ## Dense Retrieval
 
 - Billion-scale similarity search with GPUs. *IEEE Transactions on Big Data 2017.* [[Paper]](https://arxiv.org/pdf/1702.08734.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 
-
 - Dense Passage Retrieval for Open-Domain Question Answering. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.04906.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
-
 
 - Complementing Lexical Retrieval with Semantic Residual Embedding. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.13969.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 
-
 - Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2007.00808.pdf) [[Note]](./PaperNote/2020_1008_1015.md)
-
 
 - Learning To Retrieve: How to Train a Dense Retrieval Model Effectively and Efficiently. *Zhan, Jingtao and Mao, Jiaxin and Liu, Yiqun and Zhang, Min and Ma, Shaoping.* arXiv 2020. [[Paper]](https://arxiv.org/pdf/2010.10469.pdf)
 
-
 - Learning To Retrieve: How to Train a Dense Retrieval Model Effectively and Efficiently. [[paper]](https://arxiv.org/pdf/2010.10469.pdf)
 
-
 - Neural Passage Retrieval with Improved Negative Contrast. *Lu, Jing and Abrego, Gustavo Hernandez and Ma, Ji and Ni, Jianmo and Yang, Yinfei.* arXiv 2020. [[paper]](https://arxiv.org/pdf/2010.12523.pdf)
+
 
 
 ## IR Dataset
 
 - ORCAS: 18 Million Clicked Query-Document Pairs for Analyzing Search. *arXiv 2020.*  [[Paper]](https://arxiv.org/pdf/2006.05324.pdf) [[Note]](./PaperNote/2020_0831_0906.md)
 
-
 - TREC Complex Answer Retrieval Overview. *TREC 2017.* [[Paper]](https://trec.nist.gov/pubs/trec26/papers/Overview-CAR.pdf)
-
 
 - MS MARCO: A Human Generated MAchine Reading COmprehension Dataset. *ICLR 2017.* [[Paper]](https://openreview.net/pdf?id=Hk1iOLcle) [[Note]](./PaperNote/2020_1008_1015.md)

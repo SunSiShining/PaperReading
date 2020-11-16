@@ -27,8 +27,6 @@
 ## Weak Supervision
 
 - Learning from Noisy Labels with Deep Neural Networks: A Survey. *arXiv 2020.* [[Paper]](https://arxiv.org/pdf/2007.08199.pdf) 🤔
-- Investigating Weak Supervision in Deep Ranking. *Data and Information Management 2019.* [[Paper]](https://content.sciendo.com/configurable/contentpage/journals$002fdim$002f3$002f3$002farticle-p155.xml) [[Note]](./PaperNote/2020_0911_0917.md)
-- Zero-shot Neural Retrieval via Domain-targeted Synthetic Query Generation. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.14503.pdf) [[Note]](./PaperNote/2020_0925_0930.md)
 
 
 ## Few-Shot Learning
@@ -69,6 +67,10 @@
 - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. *NeurIPS 2018.* [[Paper]](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) [[Note]](./PaperNote/2020_0903_0910.md)
 - Searching to Exploit Memorization Effect in Learning with Noisy Labels. *ICML 2020.* [[Paper]](https://arxiv.org/pdf/1911.02377.pdf) 🤔
 - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels. *ICML 2018.* [[Paper]](https://arxiv.org/pdf/1712.05055.pdf) 🤔
+
+### Contrastive Learning
+
+**Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning.** *Gunel, Beliz and Du, Jingfei and Conneau, Alexis and Stoyanov, Ves.* arXiv 2020. [[paper]](https://arxiv.org/pdf/2011.01403.pdf) [[note]](./PaperNote/2020_1112_1119.md)
 
 
 ## Reinforcement Learning
