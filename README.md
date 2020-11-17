@@ -8,8 +8,9 @@
 
 ## Others
 
-**A Reinforcement Learning Framework for Relevance Feedback.** *Montazeralghaem, Ali and Zamani, Hamed and Allan, James.* SIGIR 2020. [[paper]](http://maroo.cs.umass.edu/pub/web/getpdf.php?id=1343) [[Note]](./PaperNote/2020_1112_1119.md)
+- **A Reinforcement Learning Framework for Relevance Feedback.** *Montazeralghaem, Ali and Zamani, Hamed and Allan, James.* SIGIR 2020. [[paper]](http://maroo.cs.umass.edu/pub/web/getpdf.php?id=1343) [[Note]](./PaperNote/2020_1112_1119.md)
 
+- **Reciprocal rank fusion outperforms condorcet and individual rank learning methods.**  *Cormack, Gordon V and Clarke, Charles LA and Buettcher, Stefan.* SIGIR 2009. [[paper]](https://plg.uwaterloo.ca/~gvcormac/cormacksigir09-rrf.pdf)
 
 
 ## Query Generation
