@@ -17,6 +17,7 @@
 
 - Zero-shot Neural Retrieval via Domain-targeted Synthetic Query Generation. *ArXiv 2020.* [[Paper]](https://arxiv.org/pdf/2004.14503.pdf) [[Note]](./PaperNote/2020_0925_0930.md)
 
+- Embedding-based Zero-shot Retrieval through Query Generation. *Liang, Davis and Xu, Peng and Shakeri, Siamak and Santos, Cicero Nogueira dos and Nallapati, Ramesh and Huang, Zhiheng and Xiang, Bing.* ArXiv 2020. [[paper]](https://arxiv.org/pdf/2009.10270.pdf)
 
 ## Weak Supervision
 
