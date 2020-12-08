@@ -5,6 +5,9 @@
 - [Dense Retrieval](#dense-retrieval)
 - [IR Dataset](#ir-dataset)
 
+## Weak Supervision Neu-IR
+
+- **Learning to Learn from Weak Supervision by Full Supervision.** NIPS 2017 Workshop. [[paper]](https://arxiv.org/pdf/1711.11383.pdf) [[note]](./PaperNote/2020_1207_1213.md)
 
 ## Others
 
