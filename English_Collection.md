@@ -1,5 +1,21 @@
 # English Collection
 
+## 贬义形容词
+
+[underrepresented] : 未被充分代表的
+例句：certain categoried of examples may be [underrepresented] in the training data.
+
+## 褒义名词
+[remedy] : 补救措施
+例句：A common [remedy] is to perform data augmentation.
+
+
+## 贬义动词
+[underperform] : 表现低于预期
+例句：Existing systems can severely [underperform] on underrepresented slices of data.
+
+
+
 **Learning Deep Structured Semantic Models for Web Search using Clickthrough Data**
 
   - 有两段英文描述keyphrase-based matching与unsupervised IR的文字很好记录一下

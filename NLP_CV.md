@@ -14,6 +14,7 @@
 
 ## NLP
 
+
 ### Pretraining
 - Transformer: Attention Is All You Need. *NeuIPS 2017.* [[Paper]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 - SciBERT: A Pretrained Language Model for Scientific Text. *ACL 2019.* [[Paper]](https://arxiv.org/pdf/1903.10676.pdf)
@@ -32,6 +33,9 @@
 ## Few-Shot Learning
 
 - Learning from Very Few Samples: A Survey. *arXiv 2020.*. [[Paper]](https://arxiv.org/pdf/2009.02653.pdf) [[Note]](./PaperNote/2020_0911_0917.md)
+
+
+
 
 ## Transfer Learning
 
@@ -57,6 +61,7 @@
 - Enhancing Simple Models by Exploiting What They Already Know. *ICML 2020.* [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/126-Paper.pdf) 🤔
 - Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting. *NeurIPS 2019.* [[Paper]](https://arxiv.org/pdf/1902.07379.pdf) [[Note]](./PaperNote/2020_0903_0910.md)
 - Learning Data Manipulation for Augmentation and Weighting. *NeurIPS 2019.* [[Paper]](https://arxiv.org/pdf/1910.12795.pdf) [[Note]](./PaperNote/2020_0903_0910.md)
+- **Neural Data Augmentation via Example Extrapolation.** *Lee, Kenton and Guu, Kelvin and He, Luheng and Dozat, Tim and Chung, Hyung Won.* arXiv 2021. [[paper]](https://arxiv.org/pdf/2102.01335.pdf)
 
 
 
